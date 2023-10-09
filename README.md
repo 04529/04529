@@ -1,5 +1,3 @@
-- 👋 Hi, I’m @04529 aka mehs 
+- 👋 Hi, I’m @04529 
 - 👀 I'm a digital artist that loves making things in javascript 
 - 🌱 I’m currently learning Three.js and WebGLStudio
-- 📫 How to reach me - @raccoonings on tumblr
-
